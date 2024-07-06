@@ -77,7 +77,7 @@ Metric: Unemployment Rate
 
 ## Tableau Dashboard
 
-![Cost of Living - Developed Countries](affordable_country/cost_of_living_developed_countries.jpeg)
+![Cost of Living - Developed Countries](cost_of_living_developed_countries.jpeg)
 
 After creating all the charts for all objectives, the charts are gathered together into a dashboard to provide a holistic view, making it easier to analyze and derive conclusions.
 
