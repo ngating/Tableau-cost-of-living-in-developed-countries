@@ -1,1 +1,0 @@
-# Tableau-cost-of-living-in-developed-countries
